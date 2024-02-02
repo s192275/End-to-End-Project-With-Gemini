@@ -1,1 +1,1 @@
-# End-to-End-Project-With-Gemini
+This project aims creating visual LLM bot with Gemini
